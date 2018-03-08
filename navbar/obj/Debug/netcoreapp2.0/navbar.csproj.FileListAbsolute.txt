@@ -1,0 +1,11 @@
+D:\spiralogics\navbar\navbar\bin\Debug\netcoreapp2.0\navbar.deps.json
+D:\spiralogics\navbar\navbar\bin\Debug\netcoreapp2.0\navbar.runtimeconfig.json
+D:\spiralogics\navbar\navbar\bin\Debug\netcoreapp2.0\navbar.runtimeconfig.dev.json
+D:\spiralogics\navbar\navbar\bin\Debug\netcoreapp2.0\navbar.dll
+D:\spiralogics\navbar\navbar\obj\Debug\netcoreapp2.0\navbar.csprojResolveAssemblyReference.cache
+D:\spiralogics\navbar\navbar\obj\Debug\netcoreapp2.0\navbar.csproj.CoreCompileInputs.cache
+D:\spiralogics\navbar\navbar\obj\Debug\netcoreapp2.0\navbar.AssemblyInfoInputs.cache
+D:\spiralogics\navbar\navbar\obj\Debug\netcoreapp2.0\navbar.AssemblyInfo.cs
+D:\spiralogics\navbar\navbar\bin\Debug\netcoreapp2.0\navbar.pdb
+D:\spiralogics\navbar\navbar\obj\Debug\netcoreapp2.0\navbar.dll
+D:\spiralogics\navbar\navbar\obj\Debug\netcoreapp2.0\navbar.pdb
